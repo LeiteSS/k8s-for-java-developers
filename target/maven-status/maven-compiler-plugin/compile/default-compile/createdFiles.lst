@@ -1,0 +1,9 @@
+com/giacom/java/kubernetes/controller/HelloController.class
+com/giacom/java/kubernetes/domain/User.class
+com/giacom/java/kubernetes/controller/MemoryController.class
+com/giacom/java/kubernetes/persistence/UserRepository.class
+com/giacom/java/kubernetes/service/UserService.class
+com/giacom/java/kubernetes/JavaKubernetesApplication.class
+com/giacom/java/kubernetes/controller/WaitController.class
+com/giacom/java/kubernetes/controller/CpuController.class
+com/giacom/java/kubernetes/config/MetricsConfig.class

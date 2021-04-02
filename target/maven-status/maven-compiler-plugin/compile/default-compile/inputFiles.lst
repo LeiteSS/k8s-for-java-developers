@@ -1,0 +1,9 @@
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/service/UserService.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/domain/User.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/HelloController.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/config/MetricsConfig.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/JavaKubernetesApplication.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/CpuController.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/MemoryController.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/controller/WaitController.java
+/home/ssl/Documents/workspace/java-kubernetes/src/main/java/com/giacom/java/kubernetes/persistence/UserRepository.java
